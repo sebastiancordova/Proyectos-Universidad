@@ -1,0 +1,14 @@
+VENDEDOR
+18268473|Sebastian Cordova Barra|67764940|sebastiancordovabarra@gmail.com
+TURNO
+16042016|1000|1700
+SECTOR
+Valparaiso|val|Valparaiso City
+VENTAPRODUCTO
+20|15
+PRODUCTO
+Producto2|pr2|100|150|Producto 2 
+VENDEDOR
+18268474|Matias Figueroa Saint-Jour|26845496|matiasfigueroa@gmail.com
+VENDEDOR
+18269237|Gipsy Lobos|2290095|gypsilobos.m@hotmail.com

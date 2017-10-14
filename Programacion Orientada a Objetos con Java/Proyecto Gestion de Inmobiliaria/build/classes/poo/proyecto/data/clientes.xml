@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clientes>
+  <cliente>
+    <nombre>Matias Figueroa Saint-Jour</nombre>
+    <rut>18374130</rut>
+    <digVerificador>6</digVerificador>
+    <direccion>Villa Alemana</direccion>
+    <telefono>322252687</telefono>
+    <email>matias.figueroa@gmail.com</email>
+  </cliente>
+  <cliente>
+    <nombre>Gipsy Lobos Miranda</nombre>
+    <rut>18269237</rut>
+    <digVerificador>9</digVerificador>
+    <direccion>Chaparro Alto 1025</direccion>
+    <telefono>988404173</telefono>
+    <email>gipsylobos.m@gmail.com</email>
+  </cliente>
+  <cliente>
+    <nombre>Fabiola Barra Aeschlimann</nombre>
+    <rut>6011386</rut>
+    <digVerificador>6</digVerificador>
+    <direccion>Manuel Casanova #189</direccion>
+    <telefono>322252643</telefono>
+    <email>fabiola.b@gmail.com</email>
+  </cliente>
+</clientes>

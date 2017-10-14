@@ -1,0 +1,4 @@
+Producto 1|pr1|100|150|Producto estrella
+Producto 2|pr2|100|200|Producto para el hogar
+Producto 3|pr3|120|140|Producto para bebes
+Producto 4|pr4|200|250|Producto de limpieza

@@ -1,0 +1,8 @@
+Los departamentos que aplican al Subsidio y que actualmente están disponibles son:
+Para el Proyecto: Mirador 1
+ - Departamento N° 102,  N° Baños : 2, N° Dormitorios: 2
+ - Departamento N° 103,  N° Baños : 2, N° Dormitorios: 2
+ - Departamento N° 105,  N° Baños : 2, N° Dormitorios: 2
+ - Departamento N° 106,  N° Baños : 2, N° Dormitorios: 2
+ - Departamento N° 101,  N° Baños : 1, N° Dormitorios: 2
+ - Departamento N° 110,  N° Baños : 2, N° Dormitorios: 2
