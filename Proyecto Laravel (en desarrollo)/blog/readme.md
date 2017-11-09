@@ -4,4 +4,6 @@ El proyecto es una pagina web donde los usuarios podran publicar eventos o panor
 
 > Actualmente esta incompleto; se encuentra en desarrollo.
 
-## Se irá actualizando .
+### Se irá actualizando .
+
+Para probar la app deben ingresar el comando *php artisan storage:link* para poder cargar las imagenes
